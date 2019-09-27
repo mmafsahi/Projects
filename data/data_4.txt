@@ -1,0 +1,14 @@
+4
+ABCC
+ADDE
+FGGE
+HHII
+A:7+
+B:2=
+C:2-
+D:3-
+E:2/
+F:1=
+G:6*
+H:3+
+I:7+
